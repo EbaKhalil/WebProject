@@ -60,7 +60,7 @@ CREATE TABLE `messages` (
 --
 
 INSERT INTO `messages` (`id`, `name`, `email`, `number`, `message`) VALUES
-('PLkon1pWCa5vF2tbg0Hv', 'samah', 'sheeha-samah@hotmail.com', '0598766545', 'can you help me');
+('PLkon1pWCa5vF2tbg0Hv', 'eba', 'khalil-eba@hotmail.com', '0598766545', 'can you help me');
 
 -- --------------------------------------------------------
 
@@ -175,7 +175,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `number`, `email`, `password`) VALUES
-('dHW0uc61JOVjch0xR9CX', 'samah', '0598766545', 'samah@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'),
+('dHW0uc61JOVjch0xR9CX', 'eba', '0598766545', 'eba@gmail.com', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220'),
 ('v1lUHhgm6zZSJDqqu0EG', 'saly', '0598765432', 'saly@gmail.com', 'f56d6351aa71cff0debea014d13525e42036187a');
 COMMIT;
 
